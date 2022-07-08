@@ -44,11 +44,10 @@
 }
 html{
     font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
 }
 /* main */
-#main{
 
-}
 
 #header{
     height: 46px;
@@ -142,10 +141,7 @@ html{
     font-size: 15px;
 }
 /* Content */
-#conent{
 
-
-}
 #content .content-section{
     width: 800px;
     padding: 64px 0;
